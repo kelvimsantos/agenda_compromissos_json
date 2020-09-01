@@ -1,0 +1,16 @@
+C:\csharp\agenda_compromissos\bin\Debug\agenda_compromissos.exe.config
+C:\csharp\agenda_compromissos\bin\Debug\agenda_compromissos.exe
+C:\csharp\agenda_compromissos\bin\Debug\agenda_compromissos.pdb
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.csprojAssemblyReference.cache
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.Properties.Resources.resources
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.csproj.GenerateResource.cache
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.csproj.CoreCompileInputs.cache
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.exe
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.pdb
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.inserirEditar.resources
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.frmMenu.resources
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.buscar.resources
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.QuadroBuscaResult.resources
+C:\csharp\agenda_compromissos\bin\Debug\Newtonsoft.Json.dll
+C:\csharp\agenda_compromissos\bin\Debug\Newtonsoft.Json.xml
+C:\csharp\agenda_compromissos\obj\Debug\agenda_compromissos.csproj.CopyComplete
